@@ -2,10 +2,11 @@
 
 Um sistema integrado de hardware e software para monitoramento de umidade em tempo real, focado na prevenção de danos a equipamentos eletrônicos sensíveis. Mas facilmente adaptavel a outras finalidades.
 
-![Status](https://img.shields.io/badge/Status-Concluído-success)
-![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?logo=flutter)
-![ESP32](https://img.shields.io/badge/Hardware-ESP32-black?logo=espressif)
-![Firebase](https://img.shields.io/badge/Database-Firebase-orange?logo=firebase)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Mobile-blue?logo=flutter" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Hardware-ESP32-black?logo=espressif" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Database-Firebase-orange?logo=firebase" alt="Firebase"/>
+</p>
 
 # Projeto desenvolvido em colaboração por:
 - Gabriel Rezende Pires (</strong><a href="https://github.com/boosa515"><strong>GitHub</strong></a>)
