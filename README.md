@@ -1,6 +1,6 @@
 # Sentinel_IoT
 
-> Um sistema integrado de hardware e software para monitoramento de umidade em tempo real, focado na prevenção de danos a equipamentos eletrônicos sensíveis. Mas facilmente adaptavel a outras finalidades.
+Um sistema integrado de hardware e software para monitoramento de umidade em tempo real, focado na prevenção de danos a equipamentos eletrônicos sensíveis. Mas facilmente adaptavel a outras finalidades.
 
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?logo=flutter)
