@@ -1,5 +1,15 @@
 # Sentinel_IoT
 
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=C++&logoColor=61DAFB" alt="C++"/>
+  <img src="https://img.shields.io/badge/arduino-646CFF?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/firebase-8E75B2?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/flutter-646CFF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  
+</p>
+<br/>
+
 Um sistema integrado de hardware e software para monitoramento de umidade em tempo real, focado na prevenção de danos a equipamentos eletrônicos sensíveis. Mas facilmente adaptavel a outras finalidades.
 
 ## Sobre o Projeto
